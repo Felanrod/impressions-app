@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Impressions Custom Upholstery - Built with React
 
+This project is to create a React version of [Impressions Custom Upholstery](https://impressionscustomupholstery.azurewebsites.net/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
