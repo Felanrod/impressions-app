@@ -1,9 +1,10 @@
 import PropTypes from 'prop-types'
 
-const Section = ({ sectionId, headerId, header }) => {
+const Section = ({ sectionId, headerId, header, sectionContent }) => {
     return (
         <section id={sectionId}>
             <h2 id={headerId}>{header}</h2>
+            {sectionContent}
         </section>
     )
 }
