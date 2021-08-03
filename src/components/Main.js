@@ -20,11 +20,11 @@ const Main = () => {
                 }
             />
             <Section sectionId={'work'} headerId={'workHeader'} header={'Work'} sectionContent={
-                    <SectionText content={"Filler for Gallery"}
+                    <SectionText content={"Filler for Gallery"} />
                 }
             />
             <Section sectionId={'contact'} headerId={'contactHeader'} header={'Contact'} sectionContent={
-                    <SectionText content={"Filler for Contact"}
+                    <SectionText content={"Filler for Contact"} />
                 }
             />
         </main>
